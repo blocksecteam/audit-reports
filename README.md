@@ -1,19 +1,28 @@
-Publicly released audit reports as per customers’ requests
+Publicly released audit reports as per customers' requests.
 
 
 ## Public key of our certificate
 
+**UPDATE**: Since mid-April 2024, the audit report released by BlockSec will be signed with a new certificate.
+- The public key of the certificate:
+```
+30 82 01 22 30 0D 06 09 2A 86 48 86 F7 0D 01 01 01 05 00 03 82 01 0F 00 30 82 01 0A 02 82 01 01 00 92 DF 7B 78 F3 AD E8 EE 1E E4 4B 69 EB 2D FC D4 B6 D6 A7 42 F8 90 37 A4 8D D6 D6 E7 83 0A 10 45 AD 27 F0 C1 4B 03 67 02 97 BC 8B 4C FE B7 70 D8 61 7B 52 A9 EB 26 E0 B9 1B 68 FC C7 B0 1E 6C 3C 22 16 85 CC 7E 8A 7B 70 A9 7E A2 C6 BD 7E FD A6 50 E7 47 46 86 3B E2 9E CA 3F B2 43 AC A4 85 B4 BB CD CB E5 94 42 67 C7 F0 89 04 6F CC AB D0 C9 AB 67 C5 14 1F 94 B6 F9 5D 50 69 2E EE F9 82 D6 DB 13 58 73 EE 4C 87 5E 04 F9 C7 4A 4B 92 AE 92 46 20 EB D1 97 29 4B C3 3A 22 30 6B 32 9D B1 69 B1 B5 E4 76 E6 EC A2 C2 17 94 0F 1D 30 B5 AC 3C 92 B5 D0 35 FD 84 7B 19 6E A3 03 FA CA B4 81 FD 54 62 1E 28 45 2F A8 83 0E 51 ED ED 4B 5B 80 CC 08 A0 96 FA 45 91 3F 9A F5 AA E2 DF C8 A1 97 A6 A4 28 E8 70 9B 50 7D B8 03 10 55 80 57 AC 63 A9 E5 B0 49 54 74 87 0B 03 FF F2 53 36 30 D3 8D 91 02 03 01 00 01
+```
+- The SHA1 digest of the public key:
+```
+BAB106D3708BC6DE0963CE05E9478C24B326AE1C
+```
+
 Since January 2022, the audit report released by BlockSec has been signed by a certificate. This can be verified by using Adobe Acrobat Reader.
 - The public key of the certificate is as follows:
-
 ```
 30 82 01 22 30 0D 06 09 2A 86 48 86 F7 0D 01 01 01 05 00 03 82 01 0F 00 30 82 01 0A 02 82 01 01 00 CD 8E 66 7C 3F CB FB 7D F5 20 5B 81 38 51 62 CE CA 96 59 E1 28 E5 11 D5 91 DD 15 41 F4 16 07 C6 1C 81 72 65 1C F7 48 07 42 21 1A 0D 2D 0E 49 3A ED DE DE FF 4C 6F B2 BA D9 A7 D6 C8 04 D1 FC 63 E7 2B 59 50 98 E9 2F C6 F2 1B 4C C7 B4 26 EA 2E 8A DF B7 E9 96 98 69 35 A4 A7 7F 91 FD DD F6 03 EA 5B 2E FD D4 FE 6B 3C 25 7C BF DC 1B B1 CF C9 5A CF EE BE B8 EB 88 92 F5 2F 73 F9 FD 60 72 C1 DF 08 69 4E E8 D8 E4 E5 C8 69 D0 B9 3C 37 DA 2A EB 15 52 F6 A5 46 16 12 3F CA 92 99 F9 A6 F3 6F 9D F3 9A E7 7B F4 4E 37 D4 E0 37 06 E7 C6 44 39 85 37 A9 2B CD F2 50 27 A8 60 40 FF 81 09 28 D5 A7 89 33 D2 17 43 A7 92 D0 84 5E 56 00 B9 5A 3E F6 88 EB E3 23 00 76 46 2C 53 6A 5C C1 B1 F5 C1 18 A6 CA 7D 18 68 FD 6D EA E1 30 AF B3 E0 EE D2 F1 28 C5 7E 9F 63 61 5F F4 D2 0B A7 CC A3 EA C9 02 03 01 00 01
 ```
-
 - The SHA1 digest of the public key is as follows:
-
 ```
 55D5AAB09321EFC66823989269C8EA9898D161FB
 ```
+
+
 
 If you have any questions about the audit report, don't hesitate to get in touch with us via audit@blocksec.com or contact@blocksec.com.
